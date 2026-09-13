@@ -2,7 +2,7 @@
 
 ## Use Case Diagram
 
-![Use Case Diagram](https://via.placeholder.com/1700x1320/E6F1FB/185FA5?text=Use+Case+Diagram:+Gym+Membership+%26+Class+Scheduling+System)
+![Use Case Diagram](./images/use-case-diagram.jpg)
 
 ### Use Case Diagram Description
 
@@ -169,7 +169,7 @@ Below is the complete UI/UX wireframe for the Gym Membership & Class Scheduling 
 │  │Yoga  │ Sarah   │11/15 │9AM  │ 11/15   │ [View]  │        │
 │  ├──────┼─────────┼──────┼─────┼──────────┼─────────┤        │
 │  │Gym   │ Mike    │11/16 │6PM  │ 8/20    │ [View]  │        │
-│  └──────┴──���──────┴──────┴─────┴──────────┴─────────┘        │
+│  └──────┴─────────┴──────┴─────┴──────────┴─────────┘        │
 │                                                               │
 └─────────────────────────────────────────────────────────────┘
 ```
